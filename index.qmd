@@ -1,7 +1,5 @@
 ---
-title: "."
+title: "Hi there, My name is Shizhe"
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+I am currently a master student in UBC-MDS.
